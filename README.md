@@ -41,7 +41,7 @@ Here’s a glimpse of the interactive Power BI dashboard created for this projec
 
 ![Executive Overview and Trends](https://github.com/anushka28mishra/regional-sales-analysis-python-powerbi-eda/blob/b0d7d386df4ebc19db24565fa2e6cc5cab9850be/Executive%20Overview%20and%20Trends.png) 
 ![Product and Channel Performance]()
-![Geographic and Customer Insights]()
+![Geographic and Customer Insights](https://github.com/anushka28mishra/regional-sales-analysis-python-powerbi-eda/blob/b539914f804e0b39d240ded347fa5d291763d1c8/Geographic%20and%20Customer%20Insights.png)
 
 ---
 
