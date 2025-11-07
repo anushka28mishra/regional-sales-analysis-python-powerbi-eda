@@ -25,6 +25,12 @@ Leverage 5 years of historical data to pinpoint growth levers and optimize sales
 5. Strategic recommendations derived from insights
 
 ---
+## 📖 What’s Inside
+This repository includes a PDF version of the Power BI report hosted on the Power BI Service. Use the link below for a quick preview.
+
+[Download Sales Report (PDF)](files/report.pdf)
+
+---
 
 ## 🧰 Tech Stack
 | Category | Tools Used |
@@ -141,4 +147,4 @@ Stakeholders can now **self-serve real-time analysis** and integrate new dataset
 
 ## 👩‍💻 Author
 **Anushka Mishra**  
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](www.linkedin.com/in/anushka-mishra-a084121b4)
