@@ -34,6 +34,18 @@ Leverage 5 years of historical data to pinpoint growth levers and optimize sales
 | **Development Tools** | Jupyter Notebook, Power BI Desktop, Power BI Service, Canva |
 
 ---
+
+## 📈 Dashboard Preview
+
+Here’s a glimpse of the interactive Power BI dashboard created for this project:
+
+![Executive Overview and Trends]() 
+![Product and Channel Performance]()
+![Geographic and Customer Insights]()
+
+---
+
+
 ## 🧠 Key Insights
 - **Pronounced Seasonality:** January revenues average **$124 M**, dipping to **$95 M** in April.  
 - **SKU Concentration:** Products **26 & 25** together drive ~**25 %** of total sales.  
