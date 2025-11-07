@@ -28,7 +28,7 @@ Leverage 5 years of historical data to pinpoint growth levers and optimize sales
 ## 📖 What’s Inside
 This repository includes a PDF version of the Power BI report hosted on the Power BI Service. Use the link below for a quick preview.
 
-[Download Sales Report (PDF)](files/report.pdf)
+[Dashboard As PDF](https://github.com/anushka28mishra/regional-sales-analysis-python-powerbi-eda/blob/9876a4df0011948d0a65460e1ef92315e4629c73/Regional%20Sales%20Analysis%20dashboard.pdf)
 
 ---
 
