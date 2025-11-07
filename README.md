@@ -39,7 +39,7 @@ Leverage 5 years of historical data to pinpoint growth levers and optimize sales
 
 Here’s a glimpse of the interactive Power BI dashboard created for this project:
 
-![Executive Overview and Trends]() 
+![Executive Overview and Trends](https://github.com/anushka28mishra/regional-sales-analysis-python-powerbi-eda/blob/b0d7d386df4ebc19db24565fa2e6cc5cab9850be/Executive%20Overview%20and%20Trends.png) 
 ![Product and Channel Performance]()
 ![Geographic and Customer Insights]()
 
