@@ -147,4 +147,4 @@ Stakeholders can now **self-serve real-time analysis** and integrate new dataset
 
 ## 👩‍💻 Author
 **Anushka Mishra**  
-[LinkedIn](www.linkedin.com/in/anushka-mishra-a084121b4)
+[LinkedIn](https://www.linkedin.com/in/anushka-mishra-a084121b4/)
