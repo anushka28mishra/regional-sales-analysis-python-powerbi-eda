@@ -34,6 +34,55 @@ Leverage 5 years of historical data to pinpoint growth levers and optimize sales
 | **Development Tools** | Jupyter Notebook, Power BI Desktop, Power BI Service, Canva |
 
 ---
+## 🧾 Regional Sales Dataset
+
+This dataset contains detailed regional sales information, including order details, customers, products, and sales performance across different regions. It can be used for sales analytics, forecasting, and business intelligence applications.
+
+### 📊 Dataset Overview
+
+- **File Name:** `Regional Sales Dataset.xlsx`  
+- **Total Rows:** 64,104  
+- **Total Columns:** 12  
+- **Sheets Included:**  
+  - `Sales Orders` (main dataset)  
+  - `Customers`  
+  - `Regions`  
+  - `State Regions`  
+  - `Products`  
+  - `2017 Budgets`
+
+### 🧩 Main Sheet: `Sales Orders`
+
+| Column Name | Description | Example |
+|--------------|-------------|----------|
+| `OrderNumber` | Unique identifier for each sales order | 20170123 |
+| `OrderDate` | Date when the order was placed | 2017-03-15 |
+| `Customer Name Index` | Reference ID for the customer placing the order | CUST-032 |
+| `Channel` | Sales channel used (e.g., Online, Retail, Wholesale) | Online |
+| `Currency Code` | ISO currency code for transaction | USD |
+| `Warehouse Code` | Identifier for warehouse fulfilling the order | WH-001 |
+| `Delivery Region Index` | Reference ID for delivery region | REG-02 |
+| `Product Description Index` | Reference ID for product details | PROD-054 |
+| `Order Quantity` | Quantity of product units ordered | 15 |
+| `Unit Price` | Price per unit of product | 19.99 |
+| `Line Total` | Total sales amount for the line item | 299.85 |
+| `Total Unit Cost` | Total cost incurred for the line item | 210.00 |
+
+### 📁 Related Sheets
+
+- **`Customers`** — Contains customer details and identifiers.  
+- **`Regions`** — Defines geographic sales regions.  
+- **`State Regions`** — Maps states to their respective regions.  
+- **`Products`** — Product catalog with descriptions and IDs.  
+- **`2017 Budgets`** — Budget allocations for 2017 sales.
+
+### 💡 Usage
+
+This dataset is ideal for:
+- Sales trend analysis and forecasting  
+- Regional performance comparison  
+- Customer segmentation  
+- Profitability and cost efficiency analysis
 
 ## 📈 Dashboard Preview
 
